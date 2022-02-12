@@ -15,7 +15,7 @@ JDK version: 8
 
 1.3 Technology
 
-In addition to JavaSE, it also uses third-party technologies, including
+In addition to Java, it also uses third-party technologies, including
 
 - Jfoenix: provides more beautiful UI space
 - Dashboardfx: combine some beautiful UI spaces to build a dashboard
