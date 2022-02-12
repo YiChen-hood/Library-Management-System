@@ -12,7 +12,6 @@ Developed tool: IntelliJ IDEA
 
 JDK version: 8
 
-Project encoding: UTF-8 / GBK
 
 1.3 Technology
 
